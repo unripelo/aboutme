@@ -1,2 +1,2 @@
 # aboutme
-A repository containing a webpage about Aya.
+A repository containing a webpage about me using HTML.
